@@ -1,0 +1,5 @@
+1.with input tag we use label also and by clicking on label it affects our input tag
+2.agr ham chahte hai ki saari radio button mese sirf ek hi select ho to sbke name attribute ki value ko same kr do
+3.bydefault radio kuch radiobuttons pr automatically click hua rhta hai jb website load hoti hai to hme 
+un buttons ko phle uncheck krna pdta hai 
+answer.checked for checking whether a button is clicked or not

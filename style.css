@@ -1,0 +1,44 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+
+body
+{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+/* .row
+{
+    border:2px solid red !important;
+} */
+.container-fluid
+{
+    /* border:2px solid blue !important; */
+    margin-top: 7%;;
+    
+   
+    
+}
+input, label
+{
+    margin:10px;
+    font-size:20px;
+    font-weight: bold;
+}
+.col-md-7
+{
+    /* border:2px solid green; */
+    background-color: white!important;
+}
+h1
+{
+    /* border:2px solid yellow; */
+    padding:5px;
+    background-color: blue;
+    color:white;
+}
+/* .quizDiv
+{
+    border:2px solid skyblue;
+} */
